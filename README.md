@@ -1,2 +1,2 @@
-# curso-js
-Repositório do curso de Desenvolvimento de JavaScript
+# Curso de Js
+Repositório do curso de Desenvolvimento de **JavaScript**.
